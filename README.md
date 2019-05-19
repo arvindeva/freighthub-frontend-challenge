@@ -1,5 +1,9 @@
 # FreightHub Frontend Coding Challenge
 
+## BACKUP
+This is just a backup just in case bundle does not work (never used bundle before)
+This is a copy of my own finished project base on the original: freight-hub/freighthub-frontend-challenge
+
 ## Installation
 Install Node and npm.
 Clone the repository.
